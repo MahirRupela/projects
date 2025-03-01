@@ -4,6 +4,8 @@ I used the following libraries:
 1) Tkinter,
 2) mysql.connector
 3) time.
+4) pandas
+5) numpy
 To carry out the smooth functioning of codes, various functions and arithmetic operations were used. '''
 
 
